@@ -1,0 +1,1 @@
+db.school.deleteOne({ "_id": ObjectId("65804cb56cf6bbdab4c18c0e") })
